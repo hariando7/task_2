@@ -1,0 +1,87 @@
+body {
+    font-family: Helvetica;
+    background: rgba(14, 65, 160, 0.15);
+}
+
+.gambar {
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.box {
+    text-align: center;
+}
+
+.text {
+    padding-top: 20px;
+    background-color: rgb(18, 18, 97);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 100%;
+    font-style: italic;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.halaman {
+    width: 100%;
+    height: 60px;
+    line-height: 50px;
+    margin-top: 40px;
+    background: rgb(18, 18, 97);
+    font-style: italic;
+    font-weight: 300;
+    font-size: 31px;
+    color: #FFFFFF;
+    padding-left: 25px;
+    padding-top: 5px;
+    box-sizing: border-box;
+}
+
+.heading {
+    text-align: center;
+}
+
+.layout {
+    margin: auto;
+    max-width: 1186px;
+    margin-bottom: 100px;
+}
+
+.submit {
+    margin-top: 30px;
+    background-color: rgb(18, 18, 97);
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 100%;
+    font-style: italic;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.form {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 45px;
+    box-sizing: border-box;
+}
+
+.from-wrap {
+    background: rgba(46, 66, 102, 0.06);
+    border-radius: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+input {
+    background-color: white;
+    width: 350px;
+    height: 30px;
+    border: none;
+}
